@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navi{
+    line-height: 40px;
+}
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card{
+    width: 200px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+}
+.fx{
+    width: 500px;
+}
+.container-form{
+    width: 400px;
+    height: 500px;
+    /* border: 1px solid black; */
+    border-radius: 3px;
+    margin: 50px auto;
+    box-shadow: 0 10px 10px black;
+    padding: 20px;
+}
+button{
+    background-color:coral;
+    padding: 5px 10px;
+    color: white;
+    outline:none;
+    border: none;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: rgb(25, 25,25);
+    
+}
